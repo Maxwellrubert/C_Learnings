@@ -1,7 +1,4 @@
-//C_Learnings
 
-//Day1 of 30 days C Challenge
-//printing sum and difference
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
